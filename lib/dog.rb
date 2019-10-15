@@ -8,7 +8,9 @@ class Dog
     @give_dog_name
   end 
   
-  
+  def bark 
+    puts "woof!"
+  end
 end
  
 # lassie = Dog.new
