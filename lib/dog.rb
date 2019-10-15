@@ -4,7 +4,7 @@ class Dog
     @give_dog_name = dogs_name
   end
   
-  
+  def 
 end
  
 # lassie = Dog.new
